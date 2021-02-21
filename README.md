@@ -1,4 +1,4 @@
 # Mining-Pattern
 
-# Usage 
+# refrence  
 https://github.com/apolcyn/traclus_impl
